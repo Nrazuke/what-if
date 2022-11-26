@@ -12,9 +12,12 @@ while (true) {
     }
 
     if (n.length > 0) {
+        alert("what if...")
         alert("What if gusto kita?");
-        alert("What if tayo nalang?");
-        alert("Charr !!! hahaha " + n);
+        alert("What if ako nalang?");
+        alert("Puro nalang what if");
+        alert("Ako nalang kasi " + n)
+        alert("Charr !!! hahaha ");
         main.style.display = "block";
         break;
     }
